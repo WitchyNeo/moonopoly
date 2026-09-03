@@ -1,7 +1,0 @@
-name = "Moonopoly"
-version = "6.3.0"
-id = "com.NeosGruenbaumMBSEGamesv65002.game" 
-
-[build]
-  android-min-sdk = 24
-  android-target-sdk = 34
