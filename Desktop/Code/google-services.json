@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "652253468774",
+    "project_id": "m-b-s-e-moonpoly-v2-0-0-zutmic",
+    "storage_bucket": "m-b-s-e-moonpoly-v2-0-0-zutmic.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652253468774:android:9e65dd8a3a02154f4a75a7",
+        "android_client_info": {
+          "package_name": "com.mycompany.mbsemoonpolyv200"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgjVucXMDsTaoyuRyh7d1QiCNWrPZyiDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
